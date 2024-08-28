@@ -1,0 +1,11 @@
+.title {
+  font-weight: 600;
+  width: 500px;
+  margin-left: 15px;
+  font-size: 36px;
+  text-align: left;
+}
+
+.description {
+  margin: 15px;
+}
